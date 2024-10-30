@@ -1,3 +1,8 @@
+#Bem Vindo! Você é o Visitante Nª
+<div>
+    <img src="https://profile-counter.glitch.me/%7BMiguelRomaniw%7D/count.svg">
+</div>
+
 # Pode entrar, Só nao repara na bagunça!
 
 - 📫 Contate-me pelo Email: aquelino2@gmail.com
